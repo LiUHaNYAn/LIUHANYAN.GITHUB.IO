@@ -1,0 +1,1317 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://steamcommunity.com/id/liuhangyu",
+            "path": "index.html",
+            "saved": true,
+            "size": 60190,
+            "children": [
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/239140/acebc327098fa0f8e4a56e4fd7bb1ce37c7d2674.jpg",
+                    "path": "img/acebc327098fa0f8e4a56e4fd7bb1ce37c7d2674.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png",
+                    "path": "img/logo_valve_footer.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png",
+                    "path": "img/header_menu_hamburger.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/images/responsive/header_logo.png",
+                    "path": "img/header_logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016",
+                    "path": "img/logo_steam.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/images/skin_1/arrowDn9x5.gif",
+                    "path": "img/arrowDn9x5.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/579720/053b984a253e1644cc8936a337d52c774c7d86bf.png",
+                    "path": "img/053b984a253e1644cc8936a337d52c774c7d86bf.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/45/458e0d1465806701b7ee195bffcf0b419de077cd_full.jpg",
+                    "path": "img/458e0d1465806701b7ee195bffcf0b419de077cd_full.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/images/badges/13_gamecollector/500_54.png?v=4",
+                    "path": "img/500_54.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://store.cloudflare.steamstatic.com/public/images/loyalty/reactions/still/17.png?v=5",
+                    "path": "img/17.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://store.cloudflare.steamstatic.com/public/images/loyalty/reactions/still/13.png?v=5",
+                    "path": "img/13.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://store.cloudflare.steamstatic.com/public/images/loyalty/reactions/still/11.png?v=5",
+                    "path": "img/11.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://store.cloudflare.steamstatic.com/public/images/loyalty/reactions/still/15.png?v=5",
+                    "path": "img/15.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/images/badges/49_communitypatron/1_54.png?v=2",
+                    "path": "img/1_54.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/images/badges/48_communitycontributor/1_54.png?v=2",
+                    "path": "img/1_54_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1659580/d64d88bb8ced66775b0d3106be1e0c94b93ab4fa.png",
+                    "path": "img/d64d88bb8ced66775b0d3106be1e0c94b93ab4fa.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
+                    "path": "img/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/11/1128c1ffc317984b9f2d0077970cf78e88c11d46.jpg",
+                    "path": "img/1128c1ffc317984b9f2d0077970cf78e88c11d46.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/f3/f3515cbf3f0f74e3db1bab5c6276290f135271c6.jpg",
+                    "path": "img/f3515cbf3f0f74e3db1bab5c6276290f135271c6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/cb/cbc910b68a51cfb6b2824ef6f0039b3415b3c7ac_medium.jpg",
+                    "path": "img/cbc910b68a51cfb6b2824ef6f0039b3415b3c7ac_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/31/3128a40049415e1341254eae21e189b55acd11ca_medium.jpg",
+                    "path": "img/3128a40049415e1341254eae21e189b55acd11ca_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/64/646b2e0103b27e7195ffb56e4f883a9b1e5b4b0c_medium.jpg",
+                    "path": "img/646b2e0103b27e7195ffb56e4f883a9b1e5b4b0c_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/11/1191c81a57194f64acfcda94f0fd0cb94e92eff7_medium.jpg",
+                    "path": "img/1191c81a57194f64acfcda94f0fd0cb94e92eff7_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/96/968f79ab97ffea0b29896ad0654d019ab62444bf_medium.jpg",
+                    "path": "img/968f79ab97ffea0b29896ad0654d019ab62444bf_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/40/40f33a61c6f6a0191a69b12ebb872e5f8f709e36_medium.jpg",
+                    "path": "img/40f33a61c6f6a0191a69b12ebb872e5f8f709e36_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/753/capsule_184x69.jpg",
+                    "path": "img/capsule_184x69.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/766/capsule_184x69.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/765/capsule_184x69.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/250820/capsule_184x69.jpg",
+                    "path": "img/capsule_184x69_1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/533300/62c16357bccaaa92aeda1012bdedb475e43e5e33.jpg",
+                    "path": "img/62c16357bccaaa92aeda1012bdedb475e43e5e33.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/533300/ed3f90a8b53daba8908beaa1567c301bc3872945.jpg",
+                    "path": "img/ed3f90a8b53daba8908beaa1567c301bc3872945.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/533300/c7d80e59bc349c27a5e20bb4c35872d5425401f2.jpg",
+                    "path": "img/c7d80e59bc349c27a5e20bb4c35872d5425401f2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/533300/7dfe5d5730815c56b8a041f7c94d096e3cc5f839.jpg",
+                    "path": "img/7dfe5d5730815c56b8a041f7c94d096e3cc5f839.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://steamuserimages-a.akamaihd.net/ugc/791993107344475089/9071CB8506B3868816930FF85319E43ABF5D9C89/?imw=160&imh=160&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+                    "path": "img/9071CB8506B3868816930FF85319E43ABF5D9C89.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/images/sharedfiles/not-yet.png?v=2",
+                    "path": "img/not-yet.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/753/135dc1ac1cd9763dfc8ad52f4e880d2ac058a36c.jpg",
+                    "path": "img/135dc1ac1cd9763dfc8ad52f4e880d2ac058a36c.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/70/6bd76ff700a8c7a5460fbae3cf60cb930279897d.jpg",
+                    "path": "img/6bd76ff700a8c7a5460fbae3cf60cb930279897d.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/80/acdb28ba1b4c2fcc526332c1b63fc0f7533f087f.jpg",
+                    "path": "img/acdb28ba1b4c2fcc526332c1b63fc0f7533f087f.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/418240/9ca95758bb56d4ab81fb976f30950ad0a3e957e1.jpg",
+                    "path": "img/9ca95758bb56d4ab81fb976f30950ad0a3e957e1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/418240/da4810f790bcb9dc79537bb816c95eedc93be970.jpg",
+                    "path": "img/da4810f790bcb9dc79537bb816c95eedc93be970.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/418240/7e843d11e684d4d33bd74ffb538e82de9b90fc42.jpg",
+                    "path": "img/7e843d11e684d4d33bd74ffb538e82de9b90fc42.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/418240/18f6c05ef4096a23556c17c6ddaab5e52eb2056c.jpg",
+                    "path": "img/18f6c05ef4096a23556c17c6ddaab5e52eb2056c.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/418240/919467265e58b0dc7254a8dd08423aba0ed4a310.jpg",
+                    "path": "img/919467265e58b0dc7254a8dd08423aba0ed4a310.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/418240/f6c1c7762dce206910a16ac805cae00cd58defdf.jpg",
+                    "path": "img/f6c1c7762dce206910a16ac805cae00cd58defdf.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/45/458e0d1465806701b7ee195bffcf0b419de077cd.jpg",
+                    "path": "img/458e0d1465806701b7ee195bffcf0b419de077cd.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/07/072b1d4195052eeb41b3858cb7bfface4a13dc6d.jpg",
+                    "path": "img/072b1d4195052eeb41b3858cb7bfface4a13dc6d.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1",
+                    "path": "img/footerLogo_valve.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/45/458e0d1465806701b7ee195bffcf0b419de077cd_medium.jpg",
+                    "path": "img/458e0d1465806701b7ee195bffcf0b419de077cd_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/07/072b1d4195052eeb41b3858cb7bfface4a13dc6d_medium.jpg",
+                    "path": "img/072b1d4195052eeb41b3858cb7bfface4a13dc6d_medium.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw&_cdn=cloudflare",
+                    "path": "js/prototype-1.7.js",
+                    "saved": true,
+                    "size": 169399,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/scriptaculous/_combined.js?v=OeNIgrpEF8tL&l=schinese&_cdn=cloudflare&load=effects,controls,slider,dragdrop",
+                    "path": "js/_combined.js",
+                    "saved": true,
+                    "size": 122171,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/global.js?v=0S1uW6f64z2u&l=schinese&_cdn=cloudflare",
+                    "path": "js/global.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC&_cdn=cloudflare",
+                    "path": "js/jquery-1.11.1.min.js",
+                    "saved": true,
+                    "size": 95790,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/javascript/tooltip.js?v=.9Z1XDV02xrml&_cdn=cloudflare",
+                    "path": "js/tooltip.js",
+                    "saved": true,
+                    "size": 15557,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/javascript/shared_global.js?v=yMgqhjqU4Do7&l=schinese&_cdn=cloudflare",
+                    "path": "js/shared_global.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/modalContent.js?v=_6nGrajFuHSX&l=schinese&_cdn=cloudflare",
+                    "path": "js/modalContent.js",
+                    "saved": true,
+                    "size": 14309,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&l=schinese&_cdn=cloudflare",
+                    "path": "js/modalv2.js",
+                    "saved": true,
+                    "size": 3869,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/profile.js?v=kRmv23zDHfd8&l=schinese&_cdn=cloudflare",
+                    "path": "js/profile.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/promo/stickers.js?v=YzKiWiydtQAr&l=schinese&_cdn=cloudflare",
+                    "path": "js/stickers.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/reportedcontent.js?v=g3XDacULwk__&l=schinese&_cdn=cloudflare",
+                    "path": "js/reportedcontent.js",
+                    "saved": true,
+                    "size": 9424,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/webui/clientcom.js?v=lZk1Mf3dd8d5&l=schinese&_cdn=cloudflare",
+                    "path": "js/clientcom.js",
+                    "saved": true,
+                    "size": 15295,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=QEAiclv4D3Jf&l=schinese&_cdn=cloudflare",
+                    "path": "js/shared_responsive_adapter.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/applications/community/manifest.js?v=vbIT91VergRa&l=schinese&_cdn=cloudflare",
+                    "path": "js/manifest.js",
+                    "saved": true,
+                    "size": 19498,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=dSjgiF0CJovt&l=schinese&_cdn=cloudflare",
+                    "path": "js/libraries.js",
+                    "saved": true,
+                    "size": 1242982,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/javascript/applications/community/main.js?v=Whd7843fq-Qf&l=schinese&_cdn=cloudflare",
+                    "path": "js/main.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/css/motiva_sans.css?v=GfSjbGKcNYaQ&l=schinese&_cdn=cloudflare",
+                    "path": "css/motiva_sans.css",
+                    "saved": true,
+                    "size": 2142,
+                    "children": [
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-Regular.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-Regular.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-Light.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-Light.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-Thin.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-Thin.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-Medium.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-Medium.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-Bold.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-Bold.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-RegularItalic.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-RegularItalic.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-LightItalic.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-LightItalic.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-BoldItalic.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-BoldItalic.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/fonts/MotivaSans-Black.ttf?v=4.015",
+                            "path": "fonts/MotivaSans-Black.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/css/buttons.css?v=uR_4hRD_HUln&l=schinese&_cdn=cloudflare",
+                    "path": "css/buttons.css",
+                    "saved": true,
+                    "size": 33284,
+                    "children": [
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/buttons/icons_18.png?v=3",
+                            "path": "img/icons_18.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/buttons/icons_16.png?v=5",
+                            "path": "img/icons_16.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/buttons/icon_double_arrows.png",
+                            "path": "img/icon_double_arrows.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=Add2STkxYHuV&l=schinese&_cdn=cloudflare",
+                    "path": "css/shared_global.css",
+                    "saved": true,
+                    "size": 72366,
+                    "children": [
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/friendindicator_small.png",
+                            "path": "img/friendindicator_small.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/popups/btn_arrow_down_padded.png",
+                            "path": "img/btn_arrow_down_padded.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/popups/btn_arrow_down.png",
+                            "path": "img/btn_arrow_down.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_hexagons.png",
+                            "path": "img/levels_hexagons.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_shields.png",
+                            "path": "img/levels_shields.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_books.png",
+                            "path": "img/levels_books.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_chevrons.png",
+                            "path": "img/levels_chevrons.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_circle2.png",
+                            "path": "img/levels_circle2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_angle.png",
+                            "path": "img/levels_angle.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_flag.png",
+                            "path": "img/levels_flag.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_wings.png",
+                            "path": "img/levels_wings.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_arrows.png",
+                            "path": "img/levels_arrows.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_crystals.png",
+                            "path": "img/levels_crystals.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_space.png",
+                            "path": "img/levels_space.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_waterelement.png",
+                            "path": "img/levels_waterelement.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_fireelement.png",
+                            "path": "img/levels_fireelement.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_earthelement.png",
+                            "path": "img/levels_earthelement.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_airelement_1-2.png",
+                            "path": "img/levels_airelement_1-2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_airelement_3-4.png",
+                            "path": "img/levels_airelement_3-4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_airelement_5-6.png",
+                            "path": "img/levels_airelement_5-6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_airelement_7-8.png",
+                            "path": "img/levels_airelement_7-8.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_airelement_9-10.png",
+                            "path": "img/levels_airelement_9-10.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_geo_1-2.png?v=2",
+                            "path": "img/levels_geo_1-2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_geo_3-4.png?v=2",
+                            "path": "img/levels_geo_3-4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_geo_5-6.png?v=2",
+                            "path": "img/levels_geo_5-6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_geo_7-8.png?v=2",
+                            "path": "img/levels_geo_7-8.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_geo_9-10.png?v=2",
+                            "path": "img/levels_geo_9-10.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_mandala_1-2.png?v=2",
+                            "path": "img/levels_mandala_1-2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_mandala_3-4.png?v=2",
+                            "path": "img/levels_mandala_3-4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_mandala_5-6.png?v=2",
+                            "path": "img/levels_mandala_5-6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_mandala_7-8.png?v=2",
+                            "path": "img/levels_mandala_7-8.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_mandala_9-10.png?v=2",
+                            "path": "img/levels_mandala_9-10.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_spiro_1-2.png?v=2",
+                            "path": "img/levels_spiro_1-2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_spiro_3-4.png?v=2",
+                            "path": "img/levels_spiro_3-4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_spiro_5-6.png?v=2",
+                            "path": "img/levels_spiro_5-6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_spiro_7-8.png?v=2",
+                            "path": "img/levels_spiro_7-8.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_spiro_9-10.png?v=2",
+                            "path": "img/levels_spiro_9-10.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_patterns_1-2.png?v=2",
+                            "path": "img/levels_patterns_1-2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_patterns_3-4.png?v=2",
+                            "path": "img/levels_patterns_3-4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_patterns_5-6.png?v=2",
+                            "path": "img/levels_patterns_5-6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_patterns_7-8.png?v=2",
+                            "path": "img/levels_patterns_7-8.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_patterns_9-10.png?v=2",
+                            "path": "img/levels_patterns_9-10.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_shapes_1.png?v=2",
+                            "path": "img/levels_shapes_1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_shapes_2.png?v=2",
+                            "path": "img/levels_shapes_2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_shapes_3.png?v=2",
+                            "path": "img/levels_shapes_3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_shapes_4.png?v=2",
+                            "path": "img/levels_shapes_4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_shapes_5.png?v=2",
+                            "path": "img/levels_shapes_5.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_grunge_1.png?v=2",
+                            "path": "img/levels_grunge_1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_grunge_2.png?v=2",
+                            "path": "img/levels_grunge_2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_grunge_3.png?v=2",
+                            "path": "img/levels_grunge_3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_grunge_4.png?v=2",
+                            "path": "img/levels_grunge_4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_grunge_5.png?v=2",
+                            "path": "img/levels_grunge_5.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_halftone_1.png?v=2",
+                            "path": "img/levels_halftone_1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_halftone_2.png?v=2",
+                            "path": "img/levels_halftone_2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/community/levels_halftone_3.png?v=2",
+                            "path": "img/levels_halftone_3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/login/throbber.gif",
+                            "path": "img/throbber.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/popups/hover_arrow_both.gif",
+                            "path": "img/hover_arrow_both.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/header/globalheader_highlight.png",
+                            "path": "img/globalheader_highlight.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/header/btn_header_installsteam_download.png?v=1",
+                            "path": "img/btn_header_installsteam_download.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/dd_web.jpg",
+                            "path": "img/dd_web.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/header/inbox_icons_sprite.png",
+                            "path": "img/inbox_icons_sprite.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/header/inbox_tradeoffers.png",
+                            "path": "img/inbox_tradeoffers.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/header/inbox_async_game.png",
+                            "path": "img/inbox_async_game.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/header/inbox_async_game_invite.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/header/inbox_moderator_message.png",
+                            "path": "img/inbox_moderator_message.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/ico/icon_content_warning.png",
+                            "path": "img/icon_content_warning.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/v6/icon_expand.png",
+                            "path": "img/icon_expand.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/v6/icon_expand_white.png",
+                            "path": "img/icon_expand_white.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh&_cdn=cloudflare",
+                    "path": "css/modalContent.css",
+                    "saved": true,
+                    "size": 2465,
+                    "children": []
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/css/skin_1/profilev2.css?v=Rs5eBx4Gg0Hi&l=schinese&_cdn=cloudflare",
+                    "path": "css/profilev2.css",
+                    "saved": true,
+                    "size": 74949,
+                    "children": [
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/profile/2020/bg_dots.png",
+                            "path": "img/bg_dots.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/profile/showcase_content_fade.png",
+                            "path": "img/showcase_content_fade.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/sharedfiles/ico_fav_tiled.png",
+                            "path": "img/ico_fav_tiled.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/profile/icons_content.png?v=2",
+                            "path": "img/icons_content.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/profile/profile_header_small_bg_column.png?v=1",
+                            "path": "img/profile_header_small_bg_column.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/profile/profile_header_small_bg_none.png",
+                            "path": "img/profile_header_small_bg_none.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/profile/profile_subpage_column_bottom.png?v=1",
+                            "path": "img/profile_subpage_column_bottom.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/profile/profile_subpage_column.png?v=1",
+                            "path": "img/profile_subpage_column.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/css/promo/summer2017/stickers.css?v=bZKSp7oNwVPK&l=schinese&_cdn=cloudflare",
+                    "path": "css/stickers.css",
+                    "saved": true,
+                    "size": 8410,
+                    "children": [
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images//promo/summer2017/rocket_sprite.png",
+                            "path": "img/rocket_sprite.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images//promo/summer2017/cloudtile.png",
+                            "path": "img/cloudtile.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images//promo/summer2017/canvas_strip.png",
+                            "path": "img/canvas_strip.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images//promo/summer2017/canvas.png",
+                            "path": "img/canvas.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/shared/css/shared_responsive.css?v=bhB6Pv-oiDhL&l=schinese&_cdn=cloudflare",
+                    "path": "css/shared_responsive.css",
+                    "saved": true,
+                    "size": 17451,
+                    "children": [
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/shared/images/responsive/local_menu_hamburger.png",
+                            "path": "img/local_menu_hamburger.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/css/skin_1/header.css?v=kSY7-qhkPHds&l=schinese&_cdn=cloudflare",
+                    "path": "css/header.css",
+                    "saved": true,
+                    "size": 12550,
+                    "children": [
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/header/lowerBarBG.gif",
+                            "path": "img/lowerBarBG.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/header/reportAbuseBG.gif",
+                            "path": "img/reportAbuseBG.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/header/reportAbuseLeft.gif",
+                            "path": "img/reportAbuseLeft.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/header/reportAbuseRight.gif",
+                            "path": "img/reportAbuseRight.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/header/maincol_bg_gray.png",
+                            "path": "img/maincol_bg_gray.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/community/searchbox_friendactivity_bg.gif",
+                            "path": "img/searchbox_friendactivity_bg.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/header/shadow_corners.png",
+                            "path": "img/shadow_corners.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/header/shadow_topbottom.png",
+                            "path": "img/shadow_topbottom.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/header/shadow_leftright.png",
+                            "path": "img/shadow_leftright.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://community.cloudflare.steamstatic.com/public/images/updates/communitycontent/community_banner.png",
+                            "path": "img/community_banner.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://community.cloudflare.steamstatic.com/public/css/applications/community/main.css?v=_zdG79FR4TtN&l=schinese&_cdn=cloudflare",
+                    "path": "css/main.css",
+                    "saved": true,
+                    "size": 45200,
+                    "children": []
+                },
+                {
+                    "url": "https://steamcommunity.com/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "steamcommunity-com-ws7k344s",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://community.cloudflare.steamstatic.com/public/shared/css/shared_responsive.css?v=bhB6Pv-oiDhL&l=schinese&_cdn=cloudflare",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://steamcommunity.com/id/liuhangyu",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "content-type": "text/html; charset=UTF-8",
+                "content-security-policy": "default-src blob: data: https: 'unsafe-inline' 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://community.cloudflare.steamstatic.com/ https://cdn.cloudflare.steamstatic.com/steamcommunity/public/assets/ https://api.steampowered.com/ *.google-analytics.com https://www.google.com https://www.gstatic.com https://apis.google.com https://recaptcha.net https://www.gstatic.cn/recaptcha/; object-src 'none'; connect-src 'self' https://community.cloudflare.steamstatic.com/ https://store.steampowered.com/ wss://community.steam-api.com/websocket/ https://api.steampowered.com/ *.google-analytics.com https://*.valvesoftware.com https://*.steambeta.net https://*.steamcontent.com https://steambroadcast.akamaized.net https://steambroadcastchat.akamaized.net https://broadcast.st.dl.bscstorage.net https://broadcast.st.dl.eccdnx.com http://127.0.0.1:27060 ws://127.0.0.1:27060; frame-src 'self' steam: https://store.steampowered.com/ https://www.youtube.com https://www.google.com https://sketchfab.com https://player.vimeo.com https://medal.tv https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/; frame-ancestors 'self' https://store.steampowered.com/;",
+                "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+                "cache-control": "no-cache",
+                "vary": "Accept-Encoding",
+                "content-length": "13801",
+                "date": "Sun, 22 Aug 2021 09:46:48 GMT",
+                "connection": "close",
+                "set-cookie": [
+                    "sessionid=6cd7df9965afdc954de0959b; Path=/; Secure; SameSite=None",
+                    "steamCountry=JP%7C5c30626fb89c79cd095dc766bc8ef38a; Path=/; Secure; HttpOnly; SameSite=None"
+                ]
+            }
+        },
+        "time": {
+            "start": "2021-08-22T09:46:47.102Z",
+            "end": "2021-08-22T09:47:15.711Z"
+        },
+        "remark": [],
+        "ip": "23.2.136.50",
+        "url": "https://steamcommunity.com/id/liuhangyu",
+        "main": "index.html",
+        "domain": "steamcommunity.com",
+        "origin": "https://steamcommunity.com",
+        "totalSize": "2.04 MB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://steamcommunity.com/id/liuhangyu",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
