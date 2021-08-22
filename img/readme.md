@@ -1,1 +1,1 @@
-Use to save image
+Be uesd to save image
