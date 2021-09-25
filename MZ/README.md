@@ -4,7 +4,7 @@
 翻阅经典, 与一个好名字不期而遇
 
 ## demo
-- [点击查看demo](http://liuhanyan.github.io/gushi_namer/), 支持手机查看
+- [点击查看demo](http://liuhanyan.github.io/MZ/), 支持手机查看
 
 ## 支持的经典
 1. 诗经
