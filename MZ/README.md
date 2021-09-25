@@ -4,7 +4,7 @@
 翻阅经典, 与一个好名字不期而遇
 
 ## demo
-- [点击查看](http://liuhanyan.github.io/MZ/scr), 支持手机查看
+- [点击查看](http://liuhanyan.github.io/MZ/src), 支持手机查看
 
 ## 支持的经典
 1. 诗经
