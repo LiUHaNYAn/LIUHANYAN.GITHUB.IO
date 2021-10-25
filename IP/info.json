@@ -1,0 +1,102 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://ip.kinh.cc/",
+            "path": "index.html",
+            "saved": true,
+            "size": 9032,
+            "children": [
+                {
+                    "url": "https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/js/mdui.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/css/mdui.min.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/UallenQbit/Static/Body.css",
+                    "path": "css/Body.css",
+                    "saved": true,
+                    "size": 4351,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/UallenQbit/Static/MDUI-Border-Radius.css",
+                    "path": "css/MDUI-Border-Radius.css",
+                    "saved": true,
+                    "size": 207,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.u1.huluxia.com/g4/M01/D0/0F/rBAAdmFqSiaAUHUFAAAwvTf0OC8200.png",
+                    "path": "img/rBAAdmFqSiaAUHUFAAAwvTf0OC8200.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "ip-kinh-cc-dnt2hod",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://ip.kinh.cc/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://ip.kinh.cc/",
+            "statusCode": 200,
+            "headers": {
+                "server": "FunCDN/1.0.1",
+                "date": "Mon, 25 Oct 2021 11:35:23 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "strict-transport-security": "max-age=31536000",
+                "via": "edge-68-MISS waf-68",
+                "alt-svc": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+            }
+        },
+        "time": {
+            "start": "2021-10-25T11:35:22.602Z",
+            "end": "2021-10-25T11:35:26.621Z"
+        },
+        "remark": [],
+        "ip": "154.198.213.38",
+        "url": "https://ip.kinh.cc/",
+        "main": "index.html",
+        "domain": "ip.kinh.cc",
+        "origin": "https://ip.kinh.cc",
+        "totalSize": "13.6 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://ip.kinh.cc/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
