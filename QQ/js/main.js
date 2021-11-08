@@ -14,7 +14,7 @@ function playMusic() {
     var player = document.getElementById("audio");
     play();
     function play(){
-    swal("欢迎浏览我的主页\n来首音乐？", {
+    swal("欢迎来看我的主页\n来首音乐？", {
             buttons: {
                 cancel: "开启",
                 allow: "关闭"
